@@ -16,7 +16,7 @@ This project is best run on Linux. If you are using a conda environment, you can
     conda activate zx
     
 # TEST
-All images need to be resized to a fixed size (e.g., 256×256 or 512×512). In our paper, 256×256 was used. The 256×256 pretrained weights can be downloaded from Baidu Netdisk: 
+Input images should be placed in the data folder, and the generated images will be saved in the generate folder. All images will be resized to a fixed size (e.g., 256×256 or 512×512). In our paper, 256×256 was used. The 256×256 pretrained weights can be downloaded from Baidu Netdisk: 
 
 Link: https://pan.baidu.com/s/1OMMeZDFxY8V3drw-9GYzlw 
 
