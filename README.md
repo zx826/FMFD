@@ -13,6 +13,7 @@ timm==1.0.7
 This project is best run on Linux. If you are using a conda environment, you can create it with the following command:
 
     conda env create -f environment.yml
+    conda activate zx
     
 # TEST
 All images need to be resized to a fixed size (e.g., 256×256 or 512×512). In our paper, 256×256 was used. The 256×256 pretrained weights can be downloaded from Baidu Netdisk: 
